@@ -1,0 +1,27 @@
+body {
+    background-color: #fce4ec;
+    color: #333;
+    font-family: 'Pacifico', cursive;
+    margin: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #ff69b4; 
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+img {
+    border: 20px solid #ff69b4; /* Pink border for the images */
+    margin: 10px; /* Add some margin around the images */
+    max-width: 100%; /* Ensure images don't exceed their container width */
+    height: auto; /* Maintain aspect ratio of images */
+}
+
+footer {
+    margin-top: 20px;
+    color: #555;
+}
